@@ -1,0 +1,7 @@
+path: C:/Users/kurva/OneDrive/Desktop/fouroneproj/ai-model/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: pothole
+  1: road_crack
